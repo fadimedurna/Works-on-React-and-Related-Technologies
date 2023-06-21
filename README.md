@@ -1,3 +1,8 @@
 # Works-on-React-and-Related-Technologies
 
-In this repository, all React projects are in different branches, and what they are about is specified in their README.md files.
+Welcome to the Works-on-React-and-Related-Technologies repository! This repository contains various React projects, each residing in different branches. The purpose of this repository is to showcase different applications, components, and utilities built using React and related technologies.
+
+## Repository Structure
+
+The repository follows a branch-per-project structure, where each project is located in a separate branch. This approach allows for easy navigation and isolation of the different projects. Each branch contains a specific React project along with its associated code and documentation.
+
