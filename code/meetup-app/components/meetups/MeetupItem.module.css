@@ -1,5 +1,6 @@
 .item {
   margin: 1rem 0;
+  color: #5e585b;
 }
 
 .image {
@@ -22,7 +23,7 @@
 
 .content h3 {
   font-size: 1.25rem;
-  color: #2c292b;
+  color: #5e585b;
 }
 
 .actions {
@@ -33,8 +34,8 @@
 .actions button {
   font: inherit;
   cursor: pointer;
-  color: #77002e;
-  border: 1px solid #77002e;
+  color: #a84448;
+  border: 1px solid #a84448;
   background-color: transparent;
   padding: 0.5rem 1.5rem;
   border-radius: 4px;
