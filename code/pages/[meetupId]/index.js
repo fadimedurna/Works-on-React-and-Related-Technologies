@@ -34,7 +34,7 @@ export async function getStaticPaths() {
   client.close();
 
   return {
-    fallback: false, //if fallback true that means some of the pages are not pre-generated and they will be generated on the fly. Only most visited pages will be pre-generated. If the fallback is false, that means all pages will be pre-generated.
+    fallback: "blocking", //if fallback true that means some of the pages are not pre-generated and they will be generated on the fly. Only most visited pages will be pre-generated. If the fallback is false, that means all pages will be pre-generated. "blocking" means that the page will be generated on the fly but it will be pre-generated for the next request.
     paths: meetups.map((meetup) => ({
       params: { meetupId: meetup._id.toString() },
     })),
