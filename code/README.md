@@ -4,7 +4,7 @@ The Meetup App is a web application built with React and utilizes the authentica
 
 ## Features
 
-- User authentication: Users can sign up, log in, and log out of the application securely with 1 hour expiration time working syncronously. Each time a new user is created, the users object in the events.json file is added.
+- User authentication: Users can sign up, log in, and log out of the application securely with 1 hour expiration time which is working asyncronously with web app. Each time a new user is created, the users object in the events.json file is added.
 - Protected routes: Certain routes are protected and can only be accessed by authenticated users. Examples:
   - /events/:eventId/edit : This route gives us the attribute of editting specfic meetup and posting it.
   - /events/new : This route manages to adding new meetup to the our events.json file's events object.
