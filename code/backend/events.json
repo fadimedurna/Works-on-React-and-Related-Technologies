@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Mercedes Benz Oscar Party","image":"https://images.squarespace-cdn.com/content/v1/56d082a760b5e95c074d11a0/8ce30633-23f2-4dc9-b301-c251cbf26d02/Mercedes+Benz+Oscar+Party?format=1000w","date":"2023-08-01","description":"Mercedes Benz Oscar Party","id":"74eceae3-d89b-4986-b148-abc39471552b"},{"title":"Your Guide to a Successful Product Sampling Event","description":"Come and join us for \"Your Guide to a Successful Product Sampling Event\"","image":"https://atneventstaffing.com/wp-content/uploads/2018/08/2018_Lipton_Cherry-Fest_Travese-City-MI_Brand-Ambassadors-.jpg","date":"2023-07-20","id":"f4c38dcb-c2f7-4815-9532-4bcf1263c571"},{"id":"e2","title":"Concert of the Century","date":"2024-06-14","image":"https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZXZlbnR8ZW58MHx8MHx8fDA%3D&w=1000&q=80","description":"Join this amazing event and connect with your fellow friends"},{"id":"e3","title":"After Party","date":"2023-08-25","image":"https://media.istockphoto.com/id/479977238/tr/foto%C4%9Fraf/table-setting-for-an-event-party-or-wedding-reception.jpg?s=612x612&w=0&k=20&c=qAMoRe6osR_ViuAIPpgxP24k7qNmZ72LNNMnSvLjWqg=","description":"This after party is going to be lit."},{"id":"e4","title":"Wedding dinner","date":"2023-08-02","image":"https://www.fedracongressi.com/fedra/wp-content/uploads/2016/02/revelry-event-designers-homepage-slideshow-38.jpeg","description":"Wedding dinner for the newly wedded couple."}],"users":[{"email":"test@test.com","password":"$2a$12$45.J806.e26flfmpS2ovDewXJODDhNiNJYFTCGGnl4bg.sBhkl1oO","id":"6674421c-71a3-44f2-9f56-396cab81d230"},{"email":"fd@abc.com","password":"$2a$12$UYm5BEybDGqQv3Y2Q7b8ue4F4CiVM0Q1U9Kqk1zw6tgpaLfrb19nK","id":"04ee27fa-cb21-46a3-a0c3-bf085744fdf7"}]}
